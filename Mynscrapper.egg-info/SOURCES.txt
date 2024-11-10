@@ -1,0 +1,5 @@
+setup.py
+Mynscrapper.egg-info/PKG-INFO
+Mynscrapper.egg-info/SOURCES.txt
+Mynscrapper.egg-info/dependency_links.txt
+Mynscrapper.egg-info/top_level.txt
